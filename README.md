@@ -5,9 +5,13 @@ Phone layout only is fine.
 Next screen is a map view - shows restaurants with markers (For example, Google default markers is fine)
 Don't need to poll the user's current location. If you have time, feel free to do something here to make it nice.
 On tap of a marker it shows restaurant details:
+
 	* Name
+	
 	* Contact
+	
 	* Bonus points for anything else
+	
 	* Must be a button on the details to get directions to the restaurant. If you have time please do this, but it is also ok to not have it done. The button would show directions in the App, no deep linking to another app.
 
 
